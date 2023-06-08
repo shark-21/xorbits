@@ -16,7 +16,7 @@ Xorbits can be installed via pip from `PyPI <https://pypi.org/project/xorbits>`_
 Python version support
 ----------------------
 
-Officially Python 3,7, 3.8, 3.9 and 3.10.
+Officially Python 3.8, 3.9 and 3.10.
 
 Dependencies
 ------------
